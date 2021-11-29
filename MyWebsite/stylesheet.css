@@ -1,0 +1,40 @@
+body{
+background-color: #413f3b;    
+    
+    
+}
+
+h1{
+  position: absolute;
+  top:300px;
+  left:650px;
+  width:250px;
+}
+
+
+
+.box{
+    width:80%;
+    min-height:40em;
+    
+    
+   
+    background-repeat: no-repeat;
+    background-image: url("dad.jpg");
+    background-size:75% 75%;
+    background-position:250px 50px;
+    padding: 50px 50px;
+    margin: 10px;
+}
+
+.boxg{
+    width:80%;
+    min-height:40em;
+    
+    background-image: url("github.jpg");
+    background-repeat: no-repeat;
+    background-size:75% 75%;
+    background-position:250px 250px;
+
+}
+
